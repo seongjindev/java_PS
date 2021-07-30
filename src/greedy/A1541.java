@@ -1,4 +1,4 @@
-package a1541;
+package greedy;
 
 import java.util.Scanner;
 
