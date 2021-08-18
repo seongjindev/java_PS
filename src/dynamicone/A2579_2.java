@@ -6,8 +6,8 @@ public class A2579_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int cnt = sc.nextInt();
-        int[] box = new int[cnt+1];
-        int[] dp = new int[cnt+1];
+        int[] box = new int[cnt+3];
+        int[] dp = new int[cnt+3];
 
         for(int i = 1; i <= cnt; i++) {
             box[i] = sc.nextInt();
