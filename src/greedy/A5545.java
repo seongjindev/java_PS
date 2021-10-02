@@ -24,7 +24,7 @@ public class A5545 {
         int rst = cal/price;
         Arrays.sort(bArr, Collections.reverseOrder());
         for (int i = 0; i < n; i++) {
-            if ((cal+bArr[i])/(price+b)>rst) {
+            if ((cal+bArr[i])/(price+b)>=rst) {
                 cal += bArr[i];
                 price += b;
                 rst = cal/price;
