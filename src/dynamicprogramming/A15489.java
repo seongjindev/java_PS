@@ -21,7 +21,7 @@ public class A15489 {
         }
         int sum = 0;
         for (int i = 0; i < w; i++) {
-            for (int j = 0; j < i+1; j++) {
+            for (int j = 0; j <= i; j++) {
                 sum += dp[r+i][c+j];
             }
         }
