@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="259ace54-59eb-42d0-8652-ee4b27082d94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicmath/A1673.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicmath/A1952.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicmath/A26517.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicmath/A27961.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicmath/A28138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/A25497.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringps/A1120.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/arrps/A10807.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrps/A10807.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basicmath/A25632.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicmath/A25632.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basicmath/A26090.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicmath/A26090.java" afterDir="false" />
@@ -79,7 +72,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.A26517">
+  <component name="RunManager" selected="Application.A27961">
     <configuration name="A1952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basicmath.A1952" />
       <module name="java_PS" />
@@ -108,7 +101,6 @@
     </configuration>
     <configuration name="A26517" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basicmath.A26517" />
-      <module name="java_PS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="basicmath.*" />
@@ -147,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A26517" />
         <item itemvalue="Application.A27961" />
+        <item itemvalue="Application.A26517" />
         <item itemvalue="Application.A1952" />
         <item itemvalue="Application.A2755" />
         <item itemvalue="Application.A23037" />
@@ -199,6 +191,9 @@
       <workItem from="1697133255922" duration="39000" />
       <workItem from="1697133330336" duration="81000" />
       <workItem from="1697133449166" duration="56000" />
+      <workItem from="1697133534011" duration="427000" />
+      <workItem from="1697133964910" duration="11000" />
+      <workItem from="1697134029944" duration="108000" />
     </task>
     <servers />
   </component>
